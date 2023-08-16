@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Apr 11 14:49:28 2021
 
-@author: Willem van der Schans
-
-Related Github Directory: 
-    https://github.com/Kydoimos97/CapstoneMSBA2020
-"""
 
 #!/usr/bin/env python
 # coding: utf-8
